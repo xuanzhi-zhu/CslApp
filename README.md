@@ -1,4 +1,4 @@
-# SCLapp
+# SclApp
 MATLAB code for Numerical Simulations Section
 
 main_ETC1.m      ========>     code for the Subsection 5.1 using $\gamma_1$<br>
